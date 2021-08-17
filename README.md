@@ -1,7 +1,11 @@
 # create_smaller_fasta_files_from_large_fasta
+
 #python code to split huge fasta without loading into memory to smaller files 
+
 #Works on linux platform with python3
+
 #====================================================================
+
 preprocessing of fasta files required before running the program
 
 1. Removing new line from multilines fasta, * from protein sequences end and removing any blank lines from fasta
