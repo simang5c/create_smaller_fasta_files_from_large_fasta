@@ -12,7 +12,7 @@ preprocessing of fasta files required before running the program
 2. Decide how many fasta sequence you want in the file: divide total number of fasta sequences/how_many_sequences_required _in each file
 
 
-To run the code 
+To run the code: 
 **_python split_fasta.py number_of_files filename.fasta_**
 
 #Example: my file contains 213849 fasta sequences and i want 101 sequences in all files
