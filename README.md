@@ -13,7 +13,8 @@ preprocessing of fasta files required before running the program
 
 
 To run the code 
-_**python split_fasta.py number_of_files filename.fasta**_
+**_python split_fasta.py number_of_files filename.fasta_**
+
 #Example: my file contains 213849 fasta sequences and i want 101 sequences in all files
 #number_of_files=213849/101=2117
 
