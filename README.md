@@ -8,7 +8,7 @@
 
 preprocessing of fasta files required before running the program
 
-1. Remove any new line from multilines fasta and any blank lines from fasta
+1. Remove any new line from multilines fasta and any blank lines.
 2. Decide how many fasta sequence you want in the file: divide total number of fasta sequences/how_many_sequences_required _in each file
 
 
