@@ -1,4 +1,4 @@
-# create_smaller_fasta_files_from_large_fasta
+# create smaller fasta files from large fasta
 
 #python code to split huge fasta without loading into memory to smaller files 
 
